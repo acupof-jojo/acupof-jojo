@@ -4,9 +4,9 @@
 My name is Johanna "JoJo" Mejias and I use she/her pronouns! 
 I am a senior majoring in **Computer Science**, and I will be graduating in May 2024. I am also working towards certificates (minors) in Criminal Justice, Digital Studies, Folklore, and Game Design.
 
-**I'm currently looking for a fulltime job for when I graduate!**
+**‼️I'm currently looking for a fulltime job for when I graduate‼️**
 
-Some of my hobbies are: video games, true crime, music, and (watching) animation.
+Some of my hobbies are: 👾 video games (playing and developing - check out my itch.io page), 🔎 true crime, 🎶 music (listening and producing - check out my Youtube channel), and 👀 animation (watching).
 My career interests are: game design/development, prison re-entry, digital forensics, software development, UI
 
 **Professional Experience:**
