@@ -1,6 +1,20 @@
-### Hello! 👋
+### Hello There! 👋
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+**About Me**
+My name is Johanna "JoJo" Mejias and I use she/her pronouns! 
+I am a senior majoring in **Computer Science**, and I will be graduating in May 2024. I am also working towards certificates (minors) in Criminal Justice, Digital Studies, Folklore, and Game Design.
+
+**I'm currently looking for a fulltime job for when I graduate!**
+
+Some of my hobbies are: video games, true crime, music, and (watching) animation.
+My career interests are: game design/development, prison re-entry, digital forensics, software development, UI
+
+**Professional Experience:**
+I have experience in **Java, C, Python, Javascript (React), and Typescript (Angular).**
+In the summer of 2023, I was fortunate enough to be able to be a **software development intern** at **Entegral**. During my time there, I was able to work on with a data integrity tool as well as help modernize a monolithic legacy code base. From this, I was able to gain a better understanding of the software development industry as well as better my knowledge in technologies such as GitLab and Docker. 
+In the fall of 2023, I had the privilege of being an **investigative intern** at the **UW-Madison Missing In Action Recovery and Identification Project (MIA-RIP)**. This project aims to honor the sacrifice of brave Americans who paid the ultimate price for our freedoms with the primary mission to recover missing U.S. military personnel from past global conflicts. My responsibilities included analyzing historical documents from World War II to identify valuable clues related to missing military personnel and working on a machine learning algorithm to match up dental records from MIA soldiers and Unknown soldiers. I am still currently working on this project, but with reduced hours.
+Throughout my time as at UW-Madison, I have worked as a **shift lead** at **FreshFin Poke**, a poke restaurant in downtown Madison. During my time working here, I have honed my skills in customer service, communication, team management, and time management.
+
 <!--
 **acupof-jojo/acupof-jojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
