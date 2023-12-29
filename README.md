@@ -1,6 +1,7 @@
 ### Hello There! 👋
 
 **About Me**
+
 My name is Johanna "JoJo" Mejias and I use she/her pronouns! 
 I am a senior majoring in **Computer Science**, and I will be graduating in May 2024. I am also working towards certificates (minors) in Criminal Justice, Digital Studies, Folklore, and Game Design.
 
