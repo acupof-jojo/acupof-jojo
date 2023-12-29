@@ -7,6 +7,8 @@ I am a senior majoring in **Computer Science**, and I will be graduating in May 
 
 **‼️I'm currently looking for a fulltime job for when I graduate‼️**
 
+👩‍💻 Check out my resume! It's the top link in my socials.
+
 Some of my hobbies are: 👾 video games (playing and developing - check out my itch.io page), 🔎 true crime, 🎶 music (listening and producing - check out my Youtube channel), and 👀 animation (watching).
 My career interests are: game design/development, prison re-entry, digital forensics, software development, UI
 
@@ -20,6 +22,9 @@ I have experience in **Java, C, Python, Javascript (React), and Typescript (Angu
 
   Throughout my time as at UW-Madison, I have worked as a **shift lead** at **FreshFin Poke**, a poke restaurant in downtown Madison. During my time working here, I have honed my skills in customer service, communication, team management, and time management.
 
+💬 Contact: 
+- Discord: ACupOfJoJo
+- Email: jmejias@wisc.edu
 
 **Thank you for taking the time to read through my about me!**
 
